@@ -17,3 +17,4 @@
 
 5. After my first push in 5 years I'm now editing the page on the Repo itself so I can pull the changes back onto my local machine
 
+6. Once again I find my way back here, but now the difference is that I'm also actively using Git as an everyday part of my job. Should be fun!
